@@ -1,5 +1,5 @@
 #!/bin/bash
-
+rm -rf tempdir 
 mkdir tempdir
 mkdir tempdir/templates
 mkdir tempdir/static
